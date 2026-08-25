@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Noura Alhumaid 👋
 
-<!--
-**157nouraalhumaid/157nouraalhumaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate passionate about building practical, real-world applications across mobile and web.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Languages:** Java, Dart
+- **Mobile:** Flutter
+- **Web:** Full-Stack Development
+- **Data:** Python, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+**AutoCaller — Smart Student Dismissal System** (Graduation Project)
+IoT-based platform using GPS geofencing, text-to-speech, and a Flutter mobile app to streamline student pickup at schools.
+🔗 https://github.com/mashael-qq1/AutoCaller
+
+**Real Estate Rental Price Analysis** (SWE485)
+Machine learning project analyzing and predicting rental prices from a 16,900+ record dataset. Contributed statistical summaries & documentation.
+🔗 https://github.com/157nouraalhumaid/SW485-Project-Group4
+
+**SWE486 — Spark & Hadoop**
+Big data processing project using Apache Spark and Hadoop.
+
+**PeekABoo** (SWE444)
+Flutter mobile application project.
