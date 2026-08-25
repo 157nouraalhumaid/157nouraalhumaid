@@ -3,10 +3,8 @@
 Software Engineering graduate passionate about building practical, real-world applications across mobile and web.
 
 ### 🛠️ Skills
-- **Languages:** Java, Dart
-- **Mobile:** Flutter
+- **Languages:** Java, flutter by Dart
 - **Web:** Full-Stack Development (HTML, CSS, JavaScript, PHP, SQL)
-- **Data:** Python, Apache Spark, Hadoop, Jupyter Notebook
 
 ### 🚀 Featured Projects
 
@@ -22,20 +20,20 @@ Software Engineering graduate passionate about building practical, real-world ap
 - Implemented secure payments via Stripe API and child progress tracking.
 - Designed the application with emphasis on user experience, data security, and system reliability.
 - **Tech:** Flutter, Firebase, Stripe API, Google Maps API
-- 🔗 (add link here)
+- 🔗 (https://github.com/Norahamu/PeekABoo.git)
 
 **Linguist**
 - Developed a web platform connecting tutors and learners with authentication and profile management.
 - Built session booking, user management, and rating functionalities to enhance platform usability.
 - **Tech:** HTML, CSS, JavaScript, SQL, PHP
-- 🔗 (add link here)
+- 🔗 (https://github.com/sarahmkk11/web-phase-2.git)
 
 **Comparative Analysis of Apache Spark and Apache Hadoop in Big Data Processing** (SWE486)
 - Conducted a comparative study of Spark vs. Hadoop for large-scale Arabic text processing (12M+ records).
 - Deployed clusters on Google Cloud Platform; performed data cleaning, distributed processing, and benchmarking.
 - Applied visualization and predictive modeling to answer business-driven questions.
 - **Tech:** Apache Spark, Hadoop, Google Cloud Platform (GCP), Python
-- 🔗 (add link here)
+- 🔗 (https://github.com/Norahamu/SWE486-SparkandHadoop.git)
 
 **Real Estate Rental Price Analysis** (SWE485)
 - Analyzed and predicted real estate rental prices using machine learning on a 16,900+ record dataset.
